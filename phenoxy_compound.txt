@@ -1,0 +1,203 @@
+ChEMBL ID	Name	Synonyms	Type	Max Phase	Molecular Weight	Targets	Bioactivities	AlogP	Polar Surface Area	HBA	HBD	#RO5 Violations	#Rotatable Bonds	Passes Ro3	QED Weighted	CX Acidic pKa	CX Basic pKa	CX LogP	CX LogD	Aromatic Rings	Structure Type	Inorganic Flag	Heavy Atoms	HBA (Lipinski)	HBD (Lipinski)	#RO5 Violations (Lipinski)	Molecular Weight (Monoisotopic)	Molecular Species	Molecular Formula	Smiles
+CHEMBL109095	TRICLOFENOL	2																												
+CHEMBL67238		4-(4-Methoxybenzylideneamino)Phenol	Small molecule	0	227.26	2	2	3.15	41.82	3	1	0	3	N	0.82	8.29	3.16	3.39	3.33	2	MOL	-1	17	3	1	0	227.0946	NEUTRAL	C14H13NO2	COc1ccc(/C=N/c2ccc(O)cc2)cc1
+CHEMBL56475		4-Iodo-Phenol|4-Iodophenol	Small molecule	0	220.01	6	12	2	20.23	1	1	0	0	Y	0.66	9.1	None	2.6	2.59	1	MOL	-1	8	1	1	0	219.9385	NEUTRAL	C6H5IO	Oc1ccc(I)cc1
+CHEMBL2064669		2-(2-Hydroxybenzylideneamino)Phenol	Small molecule	0	213.24	9	28	2.85	52.82	3	2	0	2	Y	0.75	8.17	0.71	3.24	3.17	2	MOL	-1	16	3	2	0	213.079	NEUTRAL	C13H11NO2	Oc1ccccc1/C=N/c1ccccc1O
+CHEMBL206260		4-(Guanidinoethyl)-Phenol Trifluoroacetatesalt|Para-Guanidinoethylphenol	Small molecule	0	293.25	6	42	0.42	82.13	2	4	0	3	N	0.4	10.13	12.5	0.32	-1.58	1	MOL	-1	13	4	5	0	179.1059	BASE	C11H14F3N3O3	N=C(N)NCCc1ccc(O)cc1.O=C(O)C(F)(F)F
+CHEMBL470887		5-{8(Z)																												
+CHEMBL352205	3-HYDROXYBENZYLHYDRAZINE DIHYDROCHLORIDE	3-Hydrazinomethyl-Phenol	Small molecule	0	138.17	13	23	0.36	58.28	3	3	0	2	Y	0.41	9.41	5.17	0.61	0.6	1	MOL	-1	10	3	4	0	138.0793	NEUTRAL	C7H10N2O	NNCc1cccc(O)c1
+CHEMBL2064675		3-(4-Hydroxybenzylideneamino)Phenol	Small molecule	0	213.24	2	3	2.85	52.82	3	2	0	2	Y	0.75	8.29	2.29	3.24	3.19	2	MOL	-1	16	3	2	0	213.079	NEUTRAL	C13H11NO2	Oc1ccc(/C=N/c2cccc(O)c2)cc1
+CHEMBL16656		2																												
+CHEMBL503990		4-(7-Methyloctyl)Phenol	Small molecule	0	220.36	10	14	4.54	20.23	1	1	0	7	N	0.67	10.31	None	5.58	5.58	1	MOL	-1	16	1	1	0	220.1827	NEUTRAL	C15H24O	CC(C)CCCCCCc1ccc(O)cc1
+CHEMBL195437	4-OCTYLPHENOL	4-Octyl-Phenol|4-Octylphenol	Small molecule	0	206.33	126	1667	4.3	20.23	1	1	0	7	N	0.66	10.31	None	5.3	5.29	1	MOL	-1	15	1	1	0	206.1671	NEUTRAL	C14H22O	CCCCCCCCc1ccc(O)cc1
+CHEMBL1200705	HYDROXYAMPHETAMINE HYDROBROMIDE	HYDROXYAMFETAMINE HBR|HYDROXYAMFETAMINE HYDROBROMIDE|HYDROXYAMPHETAMINE HBR|HYDROXYAMPHETAMINE HYDROBROMIDE|HYROXYAMFETAMINE HYDROBROMIDE|NSC-61065|OXAMPHETAMINE HYDROBROMIDE|PHENOL																												
+CHEMBL29878		2																												
+CHEMBL1091624		4-((Phenylimino)Methyl)Phenol	Small molecule	0	197.24	3	5	3.14	32.59	2	1	0	2	N	0.74	8.68	2.7	3.54	3.52	2	MOL	-1	15	2	1	0	197.0841	NEUTRAL	C13H11NO	Oc1ccc(/C=N/c2ccccc2)cc1
+CHEMBL1788117		[3H]-4-(4-(methylamino)styryl)phenol	Small molecule	0	233.32	1	1	3.6	32.26	2	2	0	3	N	0.78	9	4.62	3.48	3.47	2	MOL	-1	17	2	2	0	225.1154	NEUTRAL	C15H15NO	[3H]N(c1ccc(/C=C/c2ccc(O)cc2)cc1)C([3H])([3H])[3H]
+CHEMBL354151		2																												
+CHEMBL309917		2																												
+CHEMBL1546	HYDROXYAMPHETAMINE	DL-4-HYDROXYAMPHETAMINE|DL-P-HYDROXYAMPHETAMINE|HYDROXYAMFETAMINE|Hydroxyamphetamine|NORVERITOL|NSC-170995|P-HYDROXYAMPHETAMINE|PHENOL																												
+CHEMBL2271217	3-(ALLYLOXY)PHENOL		Small molecule	0	150.18	1	4	1.96	29.46	2	1	0	3	Y	0.67	9.48	None	2.24	2.24	1	MOL	-1	11	2	1	0	150.0681	NEUTRAL	C9H10O2	C=CCOc1cccc(O)c1
+CHEMBL470344	GIBBILIMBOL D	4-[(3'E)-Octenyl]Phenol	Small molecule	0	204.31	5	7	4.07	20.23	1	1	0	6	N	0.55	10.29	None	4.93	4.93	1	MOL	-1	15	1	1	0	204.1514	NEUTRAL	C14H20O	CCCC/C=C/CCc1ccc(O)cc1
+CHEMBL447769	GIBBILIMBOL C	4-[(4'E)-Octenyl]Phenol	Small molecule	0	204.31	5	7	4.07	20.23	1	1	0	6	N	0.55	10.31	None	4.93	4.93	1	MOL	-1	15	1	1	0	204.1514	NEUTRAL	C14H20O	CCC/C=C/CCCc1ccc(O)cc1
+CHEMBL6619		4																												
+CHEMBL443175	GIBBILIMBOL B	4-[(3'E)-Decenyl]Phenol	Small molecule	0	232.37	9	15	4.85	20.23	1	1	0	8	N	0.5	10.29	None	5.82	5.82	1	MOL	-1	17	1	1	0	232.1827	NEUTRAL	C16H24O	CCCCCC/C=C/CCc1ccc(O)cc1
+CHEMBL472762		2-(3																												
+CHEMBL225563		4-(Hexyloxy)Phenol	Small molecule	0	194.27	3	4	3.35	29.46	2	1	0	6	N	0.7	9.93	None	3.73	3.72	1	MOL	-1	14	2	1	0	194.1307	NEUTRAL	C12H18O2	CCCCCCOc1ccc(O)cc1
+CHEMBL1095674	3-(3-(3-(4-HYDROXYPHENYL)PROPYL)-4																													
+CHEMBL30014		2																												
+CHEMBL192591		2																												
+CHEMBL2180637		3-(2-(Pentyl(Phenethyl)Amino)Ethyl)Phenol	Small molecule	0	311.47	8	11	4.67	23.47	2	1	0	10	N	0.64	9.72	10.63	4.92	2.93	2	MOL	-1	23	2	1	0	311.2249	BASE	C21H29NO	CCCCCN(CCc1ccccc1)CCc1cccc(O)c1
+CHEMBL320361		2																												
+CHEMBL1797961		2-(2-Fluorobenzylideneamino)Phenol	Small molecule	0	215.23	3	3	3.28	32.59	2	1	0	2	N	0.77	8.27	0.35	3.69	3.63	2	MOL	-1	16	2	1	0	215.0746	NEUTRAL	C13H10FNO	Oc1ccccc1/N=C/c1ccccc1F
+CHEMBL41172		3-Chloro-Phenol|3-Chlorophenol	Small molecule	0	128.56	9	27	2.05	20.23	1	1	0	0	Y	0.57	8.79	None	2.27	2.26	1	MOL	-1	8	1	1	0	128.0029	NEUTRAL	C6H5ClO	Oc1cccc(Cl)c1
+CHEMBL192008		3																												
+CHEMBL2180639		3-[2-[(Cyclobutylmethyl)(Phenethyl)Amino]Ethyl]Phenol	Small molecule	0	309.45	8	23	4.28	23.47	2	1	0	8	N	0.79	9.77	10.79	4.25	2.24	2	MOL	-1	23	2	1	0	309.2093	BASE	C21H27NO	Oc1cccc(CCN(CCc2ccccc2)CC2CCC2)c1
+CHEMBL473117		2-[(3																												
+CHEMBL258921	PHENOLSULFONPHTHALEIN	NSC-10459|PHENOL RED|PHENOLSULFONPHTHALEIN|PHENOLSULPHONPHTHALEIN|PHENOSULFOPHTHALEIN	Small molecule	0	354.38	80	95	3.11	83.83	5	2	0	2	N	0.69	9.16	None	4.11	4.1	3	MOL	0	25	5	2	0	354.0562	NEUTRAL	C19H14O5S	O=S1(=O)OC(c2ccc(O)cc2)(c2ccc(O)cc2)c2ccccc21
+CHEMBL30106		2																												
+CHEMBL66861		4-Methanesulfonyl-Phenol	Small molecule	0	172.21	2	3	0.8	54.37	3	1	0	1	Y	0.68	7.58	None	0.51	0.29	1	MOL	-1	11	3	1	0	172.0194	NEUTRAL	C7H8O3S	CS(=O)(=O)c1ccc(O)cc1
+CHEMBL1523215		3-(Phenylamino)Phenol	Small molecule	0	185.23	17	21	3.14	32.26	2	2	0	2	N	0.75	9.7	0.38	3.11	3.11	2	MOL	-1	14	2	2	0	185.0841	NEUTRAL	C12H11NO	Oc1cccc(Nc2ccccc2)c1
+CHEMBL1814629		4-((Dimesitylboryl)(Pentyl)Amino)Phenol	Small molecule	0	427.44	2	2	None	None	None	None	None	None	None	None	None	None	None	None	None	MOL	-1	None	None	None	None	427.3046	None	C29H38BNO	CCCCCN(B(c1c(C)cc(C)cc1C)c1c(C)cc(C)cc1C)c1ccc(O)cc1
+CHEMBL260626		4-((Phenylamino)Methyl)Phenol	Small molecule	0	199.25	10	10	3	32.26	2	2	0	3	N	0.8	9.49	3.92	2.87	2.86	2	MOL	-1	15	2	2	0	199.0997	NEUTRAL	C13H13NO	Oc1ccc(CNc2ccccc2)cc1
+CHEMBL147060		4-(4-Hydroxyphenoxy)Phenol	Small molecule	0	202.21	6	7	2.89	49.69	3	2	0	2	Y	0.79	9.4	None	2.87	2.86	2	MOL	-1	15	3	2	0	202.063	NEUTRAL	C12H10O3	Oc1ccc(Oc2ccc(O)cc2)cc1
+CHEMBL2008672	PHOLEDRINE	4-HYDROXYMETHAMPHETAMINE|ISODRIN (SYMPATHOMIMETIC)|ISODRINE|KNOLL-H75|OH-MA|P-(2-METHYLAMINOPROPYL)PHENOL|P-HYDROXY-N-METHYLAMPHETAMINE|PHOLEDRINE|PRESSITAN|PULSOTYL|RACEMIC PHOLEDRINE|VERITOL	Small molecule	0	165.24			1.54	32.26	2	2	0	3	Y	0.71	9.86	10.58	1.33	-0.71	1	MOL	0	12	2	2	0	165.1154	BASE	C10H15NO	CNC(C)Cc1ccc(O)cc1
+CHEMBL148812		2-(2-Hydroxyphenoxy)Phenol	Small molecule	0	202.21	4	9	2.89	49.69	3	2	0	2	Y	0.79	6.63	None	2.87	2.05	2	MOL	-1	15	3	2	0	202.063	NEUTRAL	C12H10O3	Oc1ccccc1Oc1ccccc1O
+CHEMBL81721	TRIIODOPHENOL	2																												
+CHEMBL2313444		4-(1																												
+CHEMBL57342		3-Fluoro-Phenol|3-Fluorophenol	Small molecule	0	112.1	4	11	1.53	20.23	1	1	0	0	Y	0.54	8.57	None	1.81	1.78	1	MOL	-1	8	1	1	0	112.0324	NEUTRAL	C6H5FO	Oc1cccc(F)c1
+CHEMBL2064678		4-(3																												
+CHEMBL321029		2-Ethyl-Phenol|2-Ethylphenol	Small molecule	0	122.17	5	9	1.95	20.23	1	1	0	1	Y	0.6	10.31	None	2.63	2.63	1	MOL	-1	9	1	1	0	122.0732	NEUTRAL	C8H10O	CCc1ccccc1O
+CHEMBL1091628		4-(4-Hydroxybenzylideneamino)Phenol	Small molecule	0	213.24	4	6	2.85	52.82	3	2	0	2	Y	0.75	8.14	3.17	3.24	3.17	2	MOL	-1	16	3	2	0	213.079	NEUTRAL	C13H11NO2	Oc1ccc(/C=N/c2ccc(O)cc2)cc1
+CHEMBL191740		3																												
+CHEMBL58052		3-Ethyl-Phenol|3-Ethylphenol	Small molecule	0	122.17	4	6	1.95	20.23	1	1	0	1	Y	0.6	10.11	None	2.63	2.63	1	MOL	-1	9	1	1	0	122.0732	NEUTRAL	C8H10O	CCc1cccc(O)c1
+CHEMBL75967	PENTACHLOROPHENOL	2																												
+CHEMBL2107497	PHENOLATE SODIUM	PHENOL SODIUM SALT|PHENOL																												
+CHEMBL1465049		4-({[2-(Benzyloxy)Phenyl]Methyl}Amino)Phenol	Small molecule	0	305.38	72	128	4.58	41.49	3	2	0	6	N	0.65	10.34	5.21	4.43	4.43	3	MOL	-1	23	3	2	0	305.1416	NEUTRAL	C20H19NO2	Oc1ccc(NCc2ccccc2OCc2ccccc2)cc1
+CHEMBL194881		4-Dodecyl-Phenol	Small molecule	0	262.44	1	1	5.86	20.23	1	1	1	11	N	0.5	10.31	None	7.07	7.07	1	MOL	-1	19	1	1	1	262.2297	NEUTRAL	C18H30O	CCCCCCCCCCCCc1ccc(O)cc1
+CHEMBL1814628		4-((Dimesitylboryl)(Ethyl)Amino)Phenol	Small molecule	0	385.36	2	2	None	None	None	None	None	None	None	None	None	None	None	None	None	MOL	-1	None	None	None	None	385.2577	None	C26H32BNO	CCN(B(c1c(C)cc(C)cc1C)c1c(C)cc(C)cc1C)c1ccc(O)cc1
+CHEMBL472893		4-(4-Propoxyphenoxy)Phenol	Small molecule	0	244.29	1	2	3.97	38.69	3	1	0	5	N	0.86	9.7	None	3.89	3.89	2	MOL	-1	18	3	1	0	244.1099	NEUTRAL	C15H16O3	CCCOc1ccc(Oc2ccc(O)cc2)cc1
+CHEMBL322535		2-Isobutyl-Phenol|2-Isobutylphenol	Small molecule	0	150.22	7	11	2.59	20.23	1	1	0	2	Y	0.69	10.28	None	3.36	3.36	1	MOL	-1	11	1	1	0	150.1045	NEUTRAL	C10H14O	CC(C)Cc1ccccc1O
+CHEMBL108877	2-CHLOROPHENOL	2-Chloro-Phenol|2-Chlorophenol	Small molecule	0	128.56	14	28	2.05	20.23	1	1	0	0	Y	0.57	7.97	None	2.27	2.17	1	MOL	-1	8	1	1	0	128.0029	NEUTRAL	C6H5ClO	Oc1ccccc1Cl
+CHEMBL148831		2-(2-Hydroxybenzyl)Phenol	Small molecule	0	200.24	5	6	2.69	40.46	2	2	0	2	Y	0.78	8.26	None	3.46	3.4	2	MOL	-1	15	2	2	0	200.0837	NEUTRAL	C13H12O2	Oc1ccccc1Cc1ccccc1O
+CHEMBL14060	PHENOL	2-ALLPHENOL|CARBOLIC ACID|CARBOLICUM ACIDUM|CHLORASEPTIC|ENT-1814|LIQUEFIED PHENOL|LIQUIFIED PHENOL|NSC-36808|PHENIC ACID|PHENOL|PHENOL																												
+CHEMBL252313		2																												
+CHEMBL57284		4-Bromo-Phenol|4-Bromophenol|P-Bromophenol	Small molecule	0	173.01	11	35	2.15	20.23	1	1	0	0	Y	0.64	9.09	None	2.44	2.43	1	MOL	-1	8	1	1	0	171.9524	NEUTRAL	C6H5BrO	Oc1ccc(Br)cc1
+CHEMBL2180638		3-[2-[(Cyclopropylmethyl)(Phenethyl)Amino]Ethyl]Phenol	Small molecule	0	295.43	8	23	3.89	23.47	2	1	0	8	N	0.8	9.74	10.71	3.87	1.87	2	MOL	-1	22	2	1	0	295.1936	BASE	C20H25NO	Oc1cccc(CCN(CCc2ccccc2)CC2CC2)c1
+CHEMBL35297		4-Propyl-Phenol|4-Propylphenol	Small molecule	0	136.19	8	16	2.34	20.23	1	1	0	2	Y	0.66	10.31	None	3.07	3.07	1	MOL	-1	10	1	1	0	136.0888	NEUTRAL	C9H12O	CCCc1ccc(O)cc1
+CHEMBL30018		2-Isopropyl-Phenol|2-Isopropylphenol	Small molecule	0	136.19	13	48	2.52	20.23	1	1	0	1	Y	0.63	10.5	None	2.91	2.91	1	MOL	-1	10	1	1	0	136.0888	NEUTRAL	C9H12O	CC(C)c1ccccc1O
+CHEMBL2064668		2-(Benzylideneamino)Phenol	Small molecule	0	197.24	3	4	3.14	32.59	2	1	0	2	N	0.74	8.28	1.31	3.54	3.49	2	MOL	-1	15	2	1	0	197.0841	NEUTRAL	C13H11NO	Oc1ccccc1/N=C/c1ccccc1
+CHEMBL186007		2-Bromo-Phenol|2-Bromophenol|O-Bromophenol	Small molecule	0	173.01	8	12	2.15	20.23	1	1	0	0	Y	0.64	8.16	None	2.44	2.37	1	MOL	-1	8	1	1	0	171.9524	NEUTRAL	C6H5BrO	Oc1ccccc1Br
+CHEMBL470263		5-{8(Z)-Pentadecenyl}Phenol	Small molecule	0	302.5	9	10	6.8	20.23	1	1	1	13	N	0.31	10.11	None	8.05	8.04	1	MOL	-1	22	1	1	1	302.261	NEUTRAL	C21H34O	CCCCCC/C=C\CCCCCCCc1cccc(O)c1
+CHEMBL346036		2-[Methyl(Nitroso)Amino]Phenol	Small molecule	0	152.15	1	1	1.51	52.9	3	1	0	2	Y	0.52	8.24	None	1.39	1.34	1	MOL	-1	11	4	1	0	152.0586	NEUTRAL	C7H8N2O2	CN(N=O)c1ccccc1O
+CHEMBL186858		2																												
+CHEMBL1766164		4-(3																												
+CHEMBL473311		3-((Dodecylamino)Methyl)Phenol	Small molecule	0	291.48	4	4	5.4	32.26	2	2	1	13	N	0.48	8.86	9.75	5.53	4.35	1	MOL	-1	21	2	2	1	291.2562	BASE	C19H33NO	CCCCCCCCCCCCNCc1cccc(O)c1
+CHEMBL1673247		2-(Benzyl(Butyl)Amino)-Phenol	Small molecule	0	255.36	1	1	4.2	23.47	2	1	0	6	N	0.84	10.19	3.51	4.83	4.83	2	MOL	-1	19	2	1	0	255.1623	NEUTRAL	C17H21NO	CCCCN(Cc1ccccc1)c1ccccc1O
+CHEMBL111194		2-Cyclopentyl-Phenol	Small molecule	0	162.23	3	4	3.05	20.23	1	1	0	1	N	0.67	10.47	None	3.34	3.34	1	MOL	-1	12	1	1	0	162.1045	NEUTRAL	C11H14O	Oc1ccccc1C1CCCC1
+CHEMBL427462		4-(Decylamino)Phenol|P-Decylaminophenol	Small molecule	0	249.4	12	37	4.94	32.26	2	2	0	10	N	0.45	10.36	6.19	5.13	5.11	1	MOL	-1	18	2	2	0	249.2093	NEUTRAL	C16H27NO	CCCCCCCCCCNc1ccc(O)cc1
+CHEMBL108850		4-Isobutyl-Phenol	Small molecule	0	150.22	2	5	2.59	20.23	1	1	0	2	Y	0.69	10.3	None	3.36	3.36	1	MOL	-1	11	1	1	0	150.1045	NEUTRAL	C10H14O	CC(C)Cc1ccc(O)cc1
+CHEMBL149752		4-Heptyl-Phenol|4-Heptylphenol	Small molecule	0	192.3	2	5	3.91	20.23	1	1	0	6	N	0.68	10.31	None	4.85	4.85	1	MOL	-1	14	1	1	0	192.1514	NEUTRAL	C13H20O	CCCCCCCc1ccc(O)cc1
+CHEMBL2064674		2-((3-Hydroxyphenylimino)Methyl)Phenol	Small molecule	0	213.24	5	13	2.85	52.82	3	2	0	2	Y	0.75	8.34	1.64	3.24	3.19	2	MOL	-1	16	3	2	0	213.079	NEUTRAL	C13H11NO2	Oc1cccc(/N=C/c2ccccc2O)c1
+CHEMBL269755	3-AMINOPHENOL	3-Amino-Phenol|3-Aminophenol	Small molecule	0	109.13	23	32	0.97	46.25	2	2	0	0	Y	0.49	9.82	4.02	0.84	0.84	1	MOL	-1	8	2	3	0	109.0528	NEUTRAL	C6H7NO	Nc1cccc(O)c1
+CHEMBL384441		4-(4-Hydroxyphenylsulfonyl)Phenol	Small molecule	0	250.28	11	13	1.93	74.6	4	2	0	2	N	0.85	7.42	None	2.32	1.98	2	MOL	-1	17	4	2	0	250.03	NEUTRAL	C12H10O4S	O=S(=O)(c1ccc(O)cc1)c1ccc(O)cc1
+CHEMBL202519		4-(Aminomethyl)Phenol|4-Hydroxybenzylamine	Small molecule	0	123.16	4	6	0.85	46.25	2	2	0	1	Y	0.58	9.73	9.06	0.23	-1.05	1	MOL	-1	9	2	3	0	123.0684	BASE	C7H9NO	NCc1ccc(O)cc1
+CHEMBL57891	1-hydroxy-3-methoxybenzene	3-Methoxy-Phenol|3-Methoxyphenol	Small molecule	0	124.14	6	15	1.4	29.46	2	1	0	1	Y	0.61	9.49	None	1.51	1.51	1	MOL	-1	9	2	1	0	124.0524	NEUTRAL	C7H8O2	COc1cccc(O)c1
+CHEMBL258687		3-(2-Naphthyl)Phenol	Small molecule	0	220.27	5	9	4.21	20.23	1	1	0	1	N	0.65	9.83	None	4.31	4.3	3	MOL	-1	17	1	1	0	220.0888	NEUTRAL	C16H12O	Oc1cccc(-c2ccc3ccccc3c2)c1
+CHEMBL2023005		3-(((2-Aminoethyl)Sulfanyl)(Diphenyl)Methyl)Phenol|3-((2-Aminoethylthio)Diphenylmethyl)Phenol	Small molecule	0	335.47	3	5	4.38	46.25	3	2	0	6	N	0.66	9.21	9.86	3.92	2.56	3	MOL	-1	24	2	3	0	335.1344	BASE	C21H21NOS	NCCSC(c1ccccc1)(c1ccccc1)c1cccc(O)c1
+CHEMBL1797968		2-((2-Fluorophenylimino)Methyl)Phenol	Small molecule	0	215.23	3	3	3.28	32.59	2	1	0	2	N	0.77	8.83	None	3.69	3.67	2	MOL	-1	16	2	1	0	215.0746	NEUTRAL	C13H10FNO	Oc1ccccc1/C=N/c1ccccc1F
+CHEMBL108862	CHAVICOL	4-Allyl-Phenol	Small molecule	0	134.18	4	5	2.12	20.23	1	1	0	2	Y	0.61	9.5	None	2.77	2.76	1	MOL	-1	10	1	1	0	134.0732	NEUTRAL	C9H10O	C=CCc1ccc(O)cc1
+CHEMBL448270		3-Tridecyl Phenol	Small molecule	0	276.46	9	10	6.25	20.23	1	1	1	12	N	0.45	10.11	None	7.52	7.52	1	MOL	-1	20	1	1	1	276.2453	NEUTRAL	C19H32O	CCCCCCCCCCCCCc1cccc(O)c1
+CHEMBL111507		2																												
+CHEMBL381642		4-(4-(Methylamino)Styryl)Phenol	Small molecule	0	225.29	1	7	3.6	32.26	2	2	0	3	N	0.78	9	4.62	3.48	3.47	2	MOL	-1	17	2	2	0	225.1154	NEUTRAL	C15H15NO	CNc1ccc(/C=C/c2ccc(O)cc2)cc1
+CHEMBL228127		2-(3																												
+CHEMBL282597	2																													
+CHEMBL2335387		4-((4-(Phenylamino)Phenylimino)Methyl)Phenol	Small molecule	0	288.35	1	1	4.89	44.62	3	2	0	4	N	0.67	8.68	3.71	4.98	4.96	3	MOL	-1	22	3	2	0	288.1263	NEUTRAL	C19H16N2O	Oc1ccc(/C=N/c2ccc(Nc3ccccc3)cc2)cc1
+CHEMBL155572		2-Aminomethyl-Phenol	Small molecule	0	123.15	2	2	0.85	46.25	2	2	0	1	Y	0.58	8.32	10.18	-0.15	-0.99	1	MOL	-1	9	2	3	0	123.0684	BASE	C7H9NO	NCc1ccccc1O
+CHEMBL1814626		4-(Dimesitylborylamino)Phenol	Small molecule	0	357.31	2	2	None	None	None	None	None	None	None	None	None	None	None	None	None	MOL	-1	None	None	None	None	357.2264	None	C24H28BNO	Cc1cc(C)c(B(Nc2ccc(O)cc2)c2c(C)cc(C)cc2C)c(C)c1
+CHEMBL1766154		3																												
+CHEMBL314566		3																												
+CHEMBL29966		4-Isopropyl-Phenol|4-Isopropylphenol	Small molecule	0	136.19	11	19	2.52	20.23	1	1	0	1	Y	0.63	10.28	None	2.91	2.91	1	MOL	-1	10	1	1	0	136.0888	NEUTRAL	C9H12O	CC(C)c1ccc(O)cc1
+CHEMBL162030		4-Cyclopropylmethyl-Phenol	Small molecule	0	148.2	2	5	2.34	20.23	1	1	0	2	Y	0.68	10.29	None	2.9	2.89	1	MOL	-1	11	1	1	0	148.0888	NEUTRAL	C10H12O	Oc1ccc(CC2CC2)cc1
+CHEMBL115335		3-Iodo-Phenol|3-Iodophenol	Small molecule	0	220.01	2	4	2	20.23	1	1	0	0	Y	0.66	8.9	None	2.6	2.59	1	MOL	-1	8	1	1	0	219.9385	NEUTRAL	C6H5IO	Oc1cccc(I)c1
+CHEMBL1766165		4-(4-Fluorobenzyloxy)Phenol	Small molecule	0	218.23	3	6	3.11	29.46	2	1	0	3	N	0.86	9.91	None	3.38	3.38	2	MOL	-1	16	2	1	0	218.0743	NEUTRAL	C13H11FO2	Oc1ccc(OCc2ccc(F)cc2)cc1
+CHEMBL1766157		3																												
+CHEMBL1410808	CRESOL	CRESOL|CRESOL (MIXED ISOMERS)|CRESOLUM|CRESYLIC ACID|METHYLPHENOL|MIXED CRESOLS|NSC-756709|PHENOL																												
+CHEMBL1094369		4-(2-Methoxyethyl)Phenol	Small molecule	0	152.19	4	4	1.58	29.46	2	1	0	3	Y	0.71	10.2	None	1.83	1.83	1	MOL	-1	11	2	1	0	152.0837	NEUTRAL	C9H12O2	COCCc1ccc(O)cc1
+CHEMBL109652	SYRINGOL	2																												
+CHEMBL1966239		2-(4-Hydroxybenzylideneamino)Phenol	Small molecule	0	213.24	65	70	2.85	52.82	3	2	0	2	Y	0.75	8.13	1.34	3.24	3.16	2	MOL	-1	16	3	2	0	213.079	NEUTRAL	C13H11NO2	Oc1ccc(/C=N/c2ccccc2O)cc1
+CHEMBL307481		4-(2-Nitrovinyl)Phenol	Small molecule	0	165.15	29	49	1.64	63.37	3	1	0	2	N	0.53	8.48	None	1.83	1.8	1	MOL	-1	12	4	1	0	165.0426	NEUTRAL	C8H7NO3	O=[N+]([O-])/C=C/c1ccc(O)cc1
+CHEMBL107513		2																												
+CHEMBL148515		2-Phenoxy-Phenol|2-Phenoxyphenol	Small molecule	0	186.21	5	14	3.18	29.46	2	1	0	2	N	0.78	8.46	None	3.17	3.13	2	MOL	-1	14	2	1	0	186.0681	NEUTRAL	C12H10O2	Oc1ccccc1Oc1ccccc1
+CHEMBL108475		4-Ethyl-Phenol|4-Ethylphenol	Small molecule	0	122.17	13	31	1.95	20.23	1	1	0	1	Y	0.6	10.32	None	2.63	2.63	1	MOL	-1	9	1	1	0	122.0732	NEUTRAL	C8H10O	CCc1ccc(O)cc1
+CHEMBL108930		2																												
+CHEMBL225257		3-(Dimethylamino)Phenol	Small molecule	0	137.18	9	11	1.46	23.47	2	1	0	1	Y	0.63	9.78	3.94	1.78	1.78	1	MOL	-1	10	2	1	0	137.0841	NEUTRAL	C8H11NO	CN(C)c1cccc(O)c1
+CHEMBL1766166		4-(2-Chlorobenzyloxy)Phenol	Small molecule	0	234.68	3	6	3.62	29.46	2	1	0	3	N	0.88	9.91	None	3.84	3.84	2	MOL	-1	16	2	1	0	234.0448	NEUTRAL	C13H11ClO2	Oc1ccc(OCc2ccccc2Cl)cc1
+CHEMBL40964		4-[Cyclohexyl(4-Hydroxyphenyl)Methyl]Phenol	Small molecule	0	282.38	5	9	4.81	40.46	2	2	0	3	N	0.85	9.79	None	5.35	5.34	2	MOL	-1	21	2	2	0	282.162	NEUTRAL	C19H22O2	Oc1ccc(C(c2ccc(O)cc2)C2CCCCC2)cc1
+CHEMBL331629		2																												
+CHEMBL1795589		2-(4-Methoxybenzyl)Phenol	Small molecule	0	214.26	1	1	2.99	29.46	2	1	0	3	Y	0.85	10.1	None	3.6	3.6	2	MOL	-1	16	2	1	0	214.0994	NEUTRAL	C14H14O2	COc1ccc(Cc2ccccc2O)cc1
+CHEMBL2064681		4-((M-Tolylimino)Methyl)Phenol	Small molecule	0	211.26	1	1	3.45	32.59	2	1	0	2	N	0.76	8.68	2.77	4.06	4.04	2	MOL	-1	16	2	1	0	211.0997	NEUTRAL	C14H13NO	Cc1cccc(/N=C/c2ccc(O)cc2)c1
+CHEMBL2064673		2-(4-Methoxybenzylideneamino)Phenol	Small molecule	0	227.26	9	23	3.15	41.82	3	1	0	3	N	0.82	8.28	1.33	3.39	3.33	2	MOL	-1	17	3	1	0	227.0946	NEUTRAL	C14H13NO2	COc1ccc(/C=N/c2ccccc2O)cc1
+CHEMBL500079		4-(4-(Pentyloxy)Phenoxy)Phenol	Small molecule	0	272.34	1	2	4.75	38.69	3	1	0	7	N	0.74	9.7	None	4.78	4.78	2	MOL	-1	20	3	1	0	272.1412	NEUTRAL	C17H20O3	CCCCCOc1ccc(Oc2ccc(O)cc2)cc1
+CHEMBL163297		4-Propenyl-Phenol	Small molecule	0	134.18	1	2	2.43	20.23	1	1	0	1	Y	0.62	9.54	None	2.79	2.79	1	MOL	-1	10	1	1	0	134.0732	NEUTRAL	C9H10O	C/C=C/c1ccc(O)cc1
+CHEMBL2180641		3-[2-[Hexyl(Phenethyl)Amino]Ethyl]Phenol	Small molecule	0	325.5	7	12	5.06	23.47	2	1	1	11	N	0.58	9.72	10.63	5.37	3.37	2	MOL	-1	24	2	1	1	325.2406	BASE	C22H31NO	CCCCCCN(CCc1ccccc1)CCc1cccc(O)c1
+CHEMBL152295		4-Butyl-Phenol|4-Butylphenol|4-N-Butylphenol|4-N-Ethylphenol	Small molecule	0	150.22	4	7	2.73	20.23	1	1	0	3	Y	0.7	10.31	None	3.52	3.52	1	MOL	-1	11	1	1	0	150.1045	NEUTRAL	C10H14O	CCCCc1ccc(O)cc1
+CHEMBL153062	4-NONYLPHENOL	4-Nonyl-Phenol|4-Nonylphenol|Nonylphenol	Small molecule	0	220.36	141	853	4.69	20.23	1	1	0	8	N	0.63	10.31	None	5.74	5.74	1	MOL	-1	16	1	1	0	220.1827	NEUTRAL	C15H24O	CCCCCCCCCc1ccc(O)cc1
+CHEMBL473310		2-((Dodecylamino)Methyl)Phenol	Small molecule	0	291.48	4	4	5.4	32.26	2	2	1	13	N	0.48	8.1	10.68	4.95	4.25	1	MOL	-1	21	2	2	1	291.2562	BASE	C19H33NO	CCCCCCCCCCCCNCc1ccccc1O
+CHEMBL1388	MONOBENZONE	Benoquin|MONOBENZONE|MONOBENZYL ETHER OF HYDROQUINONE|Monobenzone|NSC-2132|P-(BENZYLOXY)PHENOL|P-BENZYLOXYPHENOL	Small molecule	4	200.24	116	312	2.97	29.46	2	1	0	3	Y	0.82	9.91	None	3.24	3.24	2	MOL	0	15	2	1	0	200.0837	NEUTRAL	C13H12O2	Oc1ccc(OCc2ccccc2)cc1
+CHEMBL1782219		2-(Dodecylsulfinyl)Phenol	Small molecule	0	310.5	1	2	5.42	37.3	2	1	1	12	N	0.52	7.27	None	6.09	5.72	1	MOL	-1	21	2	1	1	310.1967	NEUTRAL	C18H30O2S	CCCCCCCCCCCC[S+]([O-])c1ccccc1O
+CHEMBL459832		3-(1'-Hydroxypentyl)Phenol	Small molecule	0	180.25	2	2	2.62	40.46	2	2	0	4	N	0.75	9.37	None	2.73	2.73	1	MOL	-1	13	2	2	0	180.115	NEUTRAL	C11H16O2	CCCCC(O)c1cccc(O)c1
+CHEMBL473118		3-[(3																												
+CHEMBL450605		3-(2-Thienyl)Phenol	Small molecule	0	176.24	2	2	3.12	20.23	2	1	0	1	N	0.71	9.69	None	3.09	3.09	2	MOL	-1	12	1	1	0	176.0296	NEUTRAL	C10H8OS	Oc1cccc(-c2cccs2)c1
+CHEMBL470680	CARDANOL	5-{8(Z)																												
+CHEMBL138061		4																												
+CHEMBL2326881		4-(Trifluoromethoxy)Phenol	Small molecule	0	178.11	1	1	2.29	29.46	2	1	0	1	Y	0.71	9.62	None	3.1	3.1	1	MOL	-1	12	2	1	0	178.0242	NEUTRAL	C7H5F3O2	Oc1ccc(OC(F)(F)F)cc1
+CHEMBL202132	PARAHYDROXYBENZYL ALCOHOL	4-(Hydroxymethyl)Phenol|4-Hydroxybenzyl Alcohol|P-Hydroxybenzyl Alcohol|Parahydroxybenzyl Alcohol	Small molecule	0	124.14	12	23	0.88	40.46	2	2	0	1	Y	0.58	9.48	None	0.9	0.9	1	MOL	-1	9	2	2	0	124.0524	NEUTRAL	C7H8O2	OCc1ccc(O)cc1
+CHEMBL2313660		4-(2																												
+CHEMBL34689		3-Pentadecyl Phenol|3-Pentadecyl-Phenol|3-Pentadecylphenol|5-Pentadecylphenol	Small molecule	0	304.52	19	20	7.03	20.23	1	1	1	14	N	0.37	10.11	None	8.41	8.41	1	MOL	-1	22	1	1	1	304.2766	NEUTRAL	C21H36O	CCCCCCCCCCCCCCCc1cccc(O)c1
+CHEMBL1091627		4-((4-Methoxyphenylimino)Methyl)Phenol	Small molecule	0	227.26	2	4	3.15	41.82	3	1	0	3	N	0.82	8.68	3.14	3.39	3.36	2	MOL	-1	17	3	1	0	227.0946	NEUTRAL	C14H13NO2	COc1ccc(/N=C/c2ccc(O)cc2)cc1
+CHEMBL1766167		4-(3-Chlorobenzyloxy)Phenol	Small molecule	0	234.68	3	6	3.62	29.46	2	1	0	3	N	0.88	9.91	None	3.84	3.84	2	MOL	-1	16	2	1	0	234.0448	NEUTRAL	C13H11ClO2	Oc1ccc(OCc2cccc(Cl)c2)cc1
+CHEMBL1766159		3																												
+CHEMBL33202		3-Decyl-Phenol	Small molecule	0	234.38	7	7	5.08	20.23	1	1	1	9	N	0.59	10.11	None	6.18	6.18	1	MOL	-1	17	1	1	1	234.1984	NEUTRAL	C16H26O	CCCCCCCCCCc1cccc(O)c1
+CHEMBL2064670		2-(3-Hydroxybenzylideneamino)Phenol	Small molecule	0	213.24	4	6	2.85	52.82	3	2	0	2	Y	0.75	7.95	1.05	3.24	3.13	2	MOL	-1	16	3	2	0	213.079	NEUTRAL	C13H11NO2	Oc1cccc(/C=N/c2ccccc2O)c1
+CHEMBL1398657	PHENOLSULFONIC ACID	4-PHENOLSULFONIC ACID|NSC-227908|P-HYDROXYBENZENESULFONIC ACID|P-PHENOLSULFONATE|P-PHENOLSULFONIC ACID|PARA-PHENOLSULFONIC ACID|PHENOL-4-SULFONIC ACID|PHENOLSULFONIC ACID|SULFOCARBOLIC ACID	Small molecule	0	174.18	2	5	0.64	74.6	3	2	0	1	N	0.61	-2.59	None	0.85	-1.54	1	MOL	0	11	4	2	0	173.9987	ACID	C6H6O4S	O=S(=O)(O)c1ccc(O)cc1
+CHEMBL376316		4-(Dodecylamino)Phenol|P-Dodecylaminophenol	Small molecule	0	277.45	20	125	5.73	32.26	2	2	1	12	N	0.38	10.36	6.19	6.02	6	1	MOL	-1	20	2	2	1	277.2406	NEUTRAL	C18H31NO	CCCCCCCCCCCCNc1ccc(O)cc1
+CHEMBL185651		3-Bromo-Phenol|3-Bromophenol	Small molecule	0	173.01	6	10	2.15	20.23	1	1	0	0	Y	0.64	8.88	None	2.44	2.42	1	MOL	-1	8	1	1	0	171.9524	NEUTRAL	C6H5BrO	Oc1cccc(Br)c1
+CHEMBL205927	2-((PHENYLIMINO)METHYL)PHENOL	GBR-11840	Small molecule	0	197.24	7	10	3.14	32.59	2	1	0	2	N	0.74	8.83	2.04	3.54	3.53	2	MOL	-1	15	2	1	0	197.0841	NEUTRAL	C13H11NO	Oc1ccccc1/C=N/c1ccccc1
+CHEMBL201858	4-(BENZYLIDENEAMINO)PHENOL	4-(Benzylideneamino)Phenol	Small molecule	0	197.24	6	19	3.14	32.59	2	1	0	2	N	0.74	8.29	3.15	3.54	3.49	2	MOL	-1	15	2	1	0	197.0841	NEUTRAL	C13H11NO	Oc1ccc(/N=C/c2ccccc2)cc1
+CHEMBL2180640		3-[2-[Butyl(Phenethyl)Amino]Ethyl]Phenol	Small molecule	0	297.44	7	10	4.28	23.47	2	1	0	9	N	0.75	9.72	10.63	4.48	2.48	2	MOL	-1	22	2	1	0	297.2093	BASE	C20H27NO	CCCCN(CCc1ccccc1)CCc1cccc(O)c1
+CHEMBL2064679		3-((Phenylimino)Methyl)Phenol	Small molecule	0	197.24	1	1	3.14	32.59	2	1	0	2	N	0.74	8.22	2.37	3.54	3.48	2	MOL	-1	15	2	1	0	197.0841	NEUTRAL	C13H11NO	Oc1cccc(/C=N/c2ccccc2)c1
+CHEMBL305981		4-Trifluoromethanesulfonyl-Phenol	Small molecule	0	226.18	1	2	1.69	54.37	3	1	0	1	Y	0.79	7.31	None	2.62	2.27	1	MOL	-1	14	3	1	0	225.9911	NEUTRAL	C7H5F3O3S	O=S(=O)(c1ccc(O)cc1)C(F)(F)F
+CHEMBL30094		2																												
+CHEMBL504414		4-(1																												
+CHEMBL1230722		4-((Dimesitylboryl)(2																												
+CHEMBL2064672		2-(3-Methoxybenzylideneamino)Phenol	Small molecule	0	227.26	1	2	3.15	41.82	3	1	0	3	N	0.82	8.28	1.04	3.39	3.33	2	MOL	-1	17	3	1	0	227.0946	NEUTRAL	C14H13NO2	COc1cccc(/C=N/c2ccccc2O)c1
+CHEMBL223906		2-(Trifluoromethyl)Phenol	Small molecule	0	162.11	1	2	2.41	20.23	1	1	0	0	Y	0.62	8.36	None	2.55	2.5	1	MOL	-1	11	1	1	0	162.0292	NEUTRAL	C7H5F3O	Oc1ccccc1C(F)(F)F
+CHEMBL1814627		4-((Dimesitylboryl)(Methyl)Amino)Phenol	Small molecule	0	371.33	2	2	None	None	None	None	None	None	None	None	None	None	None	None	None	MOL	-1	None	None	None	None	371.242	None	C25H30BNO	Cc1cc(C)c(B(c2c(C)cc(C)cc2C)N(C)c2ccc(O)cc2)c(C)c1
+CHEMBL254873		3-(1-Aminocyclohexyl)Phenol	Small molecule	0	191.27	1	2	2.51	46.25	2	2	0	1	Y	0.72	8.99	9.88	1.8	0.56	1	MOL	-1	14	2	3	0	191.131	BASE	C12H17NO	NC1(c2cccc(O)c2)CCCCC1
+CHEMBL1766168		4-(3																												
+CHEMBL2064680		3-((P-Tolylimino)Methyl)Phenol	Small molecule	0	211.26	1	1	3.45	32.59	2	1	0	2	N	0.76	8.22	2.73	4.06	4	2	MOL	-1	16	2	1	0	211.0997	NEUTRAL	C14H13NO	Cc1ccc(/N=C/c2cccc(O)c2)cc1
+CHEMBL225343		2-(Methylthio)Phenol	Small molecule	0	140.21	1	2	2.11	20.23	2	1	0	1	Y	0.6	9.22	None	2.3	2.29	1	MOL	-1	9	1	1	0	140.0296	NEUTRAL	C7H8OS	CSc1ccccc1O
+CHEMBL104353		4-Nitroso-Phenol	Small molecule	0	123.11	1	7	1.79	49.66	3	1	0	1	Y	0.58	8.36	2.21	1.75	1.7	1	MOL	-1	9	3	1	0	123.032	NEUTRAL	C6H5NO2	O=Nc1ccc(O)cc1
+CHEMBL2064682		4-((P-Tolylimino)Methyl)Phenol	Small molecule	0	211.26	1	1	3.45	32.59	2	1	0	2	N	0.76	8.68	3.06	4.06	4.04	2	MOL	-1	16	2	1	0	211.0997	NEUTRAL	C14H13NO	Cc1ccc(/N=C/c2ccc(O)cc2)cc1
+CHEMBL1795389		2-(4-Methylbenzyl)Phenol	Small molecule	0	198.26	1	1	3.29	20.23	1	1	0	2	N	0.78	10.09	None	4.27	4.27	2	MOL	-1	15	1	1	0	198.1045	NEUTRAL	C14H14O	Cc1ccc(Cc2ccccc2O)cc1
+CHEMBL349881	4-VINYLPHENOL	4-Vinyl-Phenol	Small molecule	0	120.15	7	11	2.04	20.23	1	1	0	1	Y	0.6	9.56	None	2.41	2.4	1	MOL	-1	9	1	1	0	120.0575	NEUTRAL	C8H8O	C=Cc1ccc(O)cc1
+CHEMBL488414		4-(3																												
+CHEMBL2236144	3-(BENZYLIDENEAMINO)PHENOL		Small molecule	0	197.24	4	8	3.14	32.59	2	1	0	2	N	0.74	8.51	2.26	3.54	3.51	2	MOL	-1	15	2	1	0	197.0841	NEUTRAL	C13H11NO	Oc1cccc(/N=C/c2ccccc2)c1
+CHEMBL13888	3-NITRO-PHENOL	SR-1C3	Small molecule	0	139.11	17	44	1.3	63.37	3	1	0	1	N	0.47	7.89	None	1.61	1.49	1	MOL	-1	10	4	1	0	139.0269	NEUTRAL	C6H5NO3	O=[N+]([O-])c1cccc(O)c1
+CHEMBL476921	GINKGOLIC ACID 13:0	6-Tridecyl Phenol	Small molecule	0	320.47	19	30	5.94	57.53	2	2	1	13	N	0.44	2.64	None	7.83	4.32	1	MOL	-1	23	3	2	1	320.2351	ACID	C20H32O3	CCCCCCCCCCCCCc1cccc(O)c1C(=O)O
+CHEMBL1814630		4-((Bis(2																												
+CHEMBL2064676		2-((4-Hydroxyphenylimino)Methyl)Phenol	Small molecule	0	213.24	7	15	2.85	52.82	3	2	0	2	Y	0.75	8.18	2.52	3.24	3.17	2	MOL	-1	16	3	2	0	213.079	NEUTRAL	C13H11NO2	Oc1ccc(/N=C/c2ccccc2O)cc1
+CHEMBL1276286		4-(3																												
+CHEMBL109663		2																												
+CHEMBL1160714	PRENALTEROL	PRENALTEROL|Phenol metabolite	Small molecule	0	225.29	13	26	1.13	61.72	4	3	0	6	N	0.68	10.11	9.47	0.8	-0.92	1	MOL	0	16	4	3	0	225.1365	BASE	C12H19NO3	CC(C)NC[C@H](O)COc1ccc(O)cc1
+CHEMBL83527	PTEROSTILBENE	4-(3																												
+CHEMBL444472	PHENOL A		Small molecule	0	196.25	4	4	1.89	60.69	3	3	0	2	N	0.68	9.64	None	2.18	2.18	1	MOL	-1	14	3	3	0	196.1099	NEUTRAL	C11H16O3	Cc1c(O)cc(O)cc1[C@H](C)[C@@H](C)O
+CHEMBL57877		3-(Trifluoromethyl)Phenol|3-Trifluoromethyl-Phenol	Small molecule	0	162.11	3	6	2.41	20.23	1	1	0	0	Y	0.62	9.1	None	2.55	2.54	1	MOL	-1	11	1	1	0	162.0292	NEUTRAL	C7H5F3O	Oc1cccc(C(F)(F)F)c1
+CHEMBL444161		4-(4-Methoxyphenoxy)Phenol	Small molecule	0	216.24	1	3	3.19	38.69	3	1	0	3	N	0.86	9.7	None	3.01	3.01	2	MOL	-1	16	3	1	0	216.0786	NEUTRAL	C13H12O3	COc1ccc(Oc2ccc(O)cc2)cc1
+CHEMBL31340		4-Hexadecylamino-Phenol	Small molecule	0	333.56	2	7	7.29	32.26	2	2	1	16	N	0.25	10.36	6.19	7.8	7.77	1	MOL	-1	24	2	2	1	333.3032	NEUTRAL	C22H39NO	CCCCCCCCCCCCCCCCNc1ccc(O)cc1
+CHEMBL281223		2-Methylamino-Phenol	Small molecule	0	123.15	1	1	1.43	32.26	2	2	0	1	Y	0.55	10.29	5.17	1.14	1.14	1	MOL	-1	9	2	2	0	123.0684	NEUTRAL	C7H9NO	CNc1ccccc1O
+CHEMBL153388		4-N-Amylphenol|4-Pentyl-Phenol|4-Pentylphenol	Small molecule	0	164.25	4	7	3.12	20.23	1	1	0	4	N	0.68	10.31	None	3.96	3.96	1	MOL	-1	12	1	1	0	164.1201	NEUTRAL	C11H16O	CCCCCc1ccc(O)cc1
+CHEMBL1797960		3																												
+CHEMBL66288		4-Trifluoromethanesulfinyl-Phenol	Small molecule	0	210.18	1	2	2.02	37.3	2	1	0	1	Y	0.77	7.98	None	2.51	2.41	1	MOL	-1	13	2	1	0	209.9962	NEUTRAL	C7H5F3O2S	[O-][S+](c1ccc(O)cc1)C(F)(F)F
+CHEMBL29799		2																												
+CHEMBL470127		3-[10'(Z)-Heptadecenyl]Phenol	Small molecule	0	330.56	8	9	7.58	20.23	1	1	1	15	N	0.26	10.11	None	8.93	8.93	1	MOL	-1	24	1	1	1	330.2923	NEUTRAL	C23H38O	CCCCCC/C=C\CCCCCCCCCc1cccc(O)c1
+CHEMBL526	PROPOFOL	DISOPROFOL|Diprivan|Disoprivan|FRESOFOL|ICI 35																												
+CHEMBL467374		4-(4-Butoxyphenoxy)Phenol	Small molecule	0	258.32	1	2	4.36	38.69	3	1	0	6	N	0.78	9.7	None	4.34	4.33	2	MOL	-1	19	3	1	0	258.1256	NEUTRAL	C16H18O3	CCCCOc1ccc(Oc2ccc(O)cc2)cc1
+CHEMBL455078		4-(4-Ethoxyphenoxy)Phenol	Small molecule	0	230.26	1	3	3.58	38.69	3	1	0	4	N	0.87	9.7	None	3.37	3.37	2	MOL	-1	17	3	1	0	230.0943	NEUTRAL	C14H14O3	CCOc1ccc(Oc2ccc(O)cc2)cc1
+CHEMBL368128		4-Thiocyanato-Phenol	Small molecule	0	151.19	2	2	1.97	44.02	3	1	0	1	Y	0.49	8.5	None	1.97	1.93	1	MOL	-1	10	2	1	0	151.0092	NEUTRAL	C7H5NOS	N#CSc1ccc(O)cc1
+CHEMBL122649		2-Benzyl-Phenol	Small molecule	0	184.24	3	3	2.98	20.23	1	1	0	2	Y	0.76	10.09	None	3.76	3.76	2	MOL	-1	14	1	1	0	184.0888	NEUTRAL	C13H12O	Oc1ccccc1Cc1ccccc1
+CHEMBL465874	PHENOL A ACID	Phenol A Acid	Small molecule	0	240.25	1	1	1.59	97.99	4	4	0	3	N	0.64	1.76	None	3.14	-0.39	1	MOL	-1	17	5	4	0	240.0998	ACID	C12H16O5	Cc1c([C@H](C)[C@@H](C)O)cc(O)c(C(=O)O)c1O
+CHEMBL111140		2																												
+CHEMBL12822		4-Trifluoromethanesulfonylmethanesulfonyl-Phenol	Small molecule	0	304.27	1	1	1.06	88.51	5	1	0	3	N	0.9	7.53	None	1.71	1.47	1	MOL	-1	18	5	1	0	303.9687	NEUTRAL	C8H7F3O5S2	O=S(=O)(CS(=O)(=O)C(F)(F)F)c1ccc(O)cc1
+CHEMBL393703		3-(2																												
+CHEMBL109774		2																												
+CHEMBL1797950		4-(Amino(P-Tolyl)Methyl)Phenol	Small molecule	0	213.28	1	3	2.75	46.25	2	2	0	2	Y	0.81	9.59	8.77	2.73	1.62	2	MOL	-1	16	2	3	0	213.1154	BASE	C14H15NO	Cc1ccc(C(N)c2ccc(O)cc2)cc1
+CHEMBL109956		2																												
+CHEMBL2227727	TYLOPHORINE 2																													
+CHEMBL457077	SALVIANOLIC ACID A	DAN PHENOLIC ACID A|SALVIANOLIC ACID A	Small molecule	1	494.45	18	31	3.34	184.98	9	7	1	8	N	0.11	3.14	None	4.74	1.24	3	MOL	0	36	10	7	1	494.1213	ACID	C26H22O10	O=C(/C=C/c1ccc(O)c(O)c1/C=C/c1ccc(O)c(O)c1)O[C@H](Cc1ccc(O)c(O)c1)C(=O)O
+CHEMBL567614		4-(3-Iodostyryl)Phenol	Small molecule	0	322.14	1	1	4.17	20.23	1	1	0	2	N	0.65	9	None	4.94	4.93	2	MOL	-1	16	1	1	0	321.9855	NEUTRAL	C14H11IO	Oc1ccc(/C=C/c2cccc(I)c2)cc1
+CHEMBL277808		4-Isopropenyl-Phenol	Small molecule	0	134.18	1	1	2.43	20.23	1	1	0	1	Y	0.62	9.53	None	2.71	2.7	1	MOL	-1	10	1	1	0	134.0732	NEUTRAL	C9H10O	C=C(C)c1ccc(O)cc1
+CHEMBL152248		4-[Methyl(Nitroso)Amino]Phenol	Small molecule	0	152.15	1	1	1.51	52.9	3	1	0	2	Y	0.52	9.06	None	1.39	1.38	1	MOL	-1	11	4	1	0	152.0586	NEUTRAL	C7H8N2O2	CN(N=O)c1ccc(O)cc1
+CHEMBL398564		2																												
+CHEMBL1188090		3-(2-(Phenethyl(Propyl)Amino)Ethyl)Phenol	Small molecule	0	283.42	8	15	3.89	23.47	2	1	0	8	N	0.79	9.71	10.62	4.05	2.06	2	MOL	-1	21	2	1	0	283.1936	BASE	C19H25NO	CCCN(CCc1ccccc1)CCc1cccc(O)c1
